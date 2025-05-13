@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+gradio
+deep_sort_realtime
+numpy

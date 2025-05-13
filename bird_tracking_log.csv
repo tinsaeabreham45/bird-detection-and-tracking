@@ -1,0 +1,35 @@
+Bird ID,Entry Time (s),Movement
+1,0.3,Left to Right
+2,0.3,Left to Right
+3,0.3,Stayed
+4,0.3,Left to Right
+5,0.3,Right to Left
+6,0.3,Left to Right
+7,0.3,Right to Left
+11,0.8,Left to Right
+13,1.2,Left to Right
+28,2.6,Left to Right
+30,3.0,Stayed
+33,4.6,Stayed
+38,5.81,Right to Left
+41,6.41,Left to Right
+43,6.51,Stayed
+44,6.61,Left to Right
+45,6.61,Left to Right
+49,7.71,Stayed
+52,10.01,Left to Right
+54,10.01,Left to Right
+56,10.11,Left to Right
+58,10.51,Right to Left
+59,10.61,Left to Right
+61,11.11,Left to Right
+63,11.61,Left to Right
+70,12.21,Left to Right
+71,12.31,Left to Right
+74,13.31,Left to Right
+76,14.01,Stayed
+79,14.41,Left to Right
+80,14.71,Right to Left
+83,15.12,Right to Left
+85,15.42,Stayed
+88,15.92,Stayed
