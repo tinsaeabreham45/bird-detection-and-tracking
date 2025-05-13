@@ -4,7 +4,7 @@ This project detects and tracks birds in **images** and **videos** using YOLOv11
 
 ## 🚀 Live Demo
 
-👉 [Launch on Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/bird-tracker)
+👉 [Launch on Hugging Face Spaces](https://huggingface.co/spaces/TinsaeA/bird-detection-and-tracking)
 
 ## 🎯 Features
 
