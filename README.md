@@ -21,7 +21,7 @@ This project detects and tracks birds in **images** and **videos** using YOLOv11
 <img src="result.jpg" width="500"/>
 
 ### Video Tracking  
-📽️ [Watch Sample Video Output](https://user-images.githubusercontent.com/your/video.mp4)
+📽️ [Watch Sample Video Output](video_output.mp4)
 
 ## 🛠️ Tech Stack
 
